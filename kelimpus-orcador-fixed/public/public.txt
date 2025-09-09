@@ -1,0 +1,4 @@
+kelimpus-orcador/
+├── public/
+│   └── index.html
+├── package.json   (pode até remover se quiser)
